@@ -1,0 +1,19 @@
+{
+  "name": "npm-learn",
+  "description": "npm learn.",
+  "tags": [
+    "npm-learn"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Omkar Mekala"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkareswararao/node-test"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "config": "~1.16.0"
+   }
+}
